@@ -1,0 +1,7 @@
+1 egg
+1 flour 
+1 milk
+
+make pancakes.
+
+add fruit + maple syrup. Booyeah.
